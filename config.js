@@ -13,5 +13,5 @@ const CONFIG = {
     mess: 'A biết mà',
     messDesc: 'Lại bị anh thao túng rồi kk',
     btnAccept: 'This is my heart',
-    messLink: '/page3.html'
+    messLink: './page3.html'
 }
